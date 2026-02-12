@@ -1,3 +1,12 @@
-# SQL Data Exploration (SQL 2022)
+📊 Public Health Trend Discovery & Data Integrity Exploration
 
-As part of this portfolio project, I utilized SQL 2022 to import data from a CSV file. Subsequently, I employed SQL queries to analyze the dataset and gain insights into its characteristics, including its quantity and accuracy. This allowed me to obtain a deeper understanding of the nature of the dataset.
+
+During the pandemic, the volume of data was overwhelming, but the quality of data was often inconsistent. Decision-makers needed a way to filter "noise" from "signals" to understand the actual infection rates versus testing capacity across different demographics.
+
+The Project Execution
+I approached this as a Data Discovery phase, treating the dataset as a product that needed to be refined for accuracy.
+ * Exploratory Data Analysis (EDA): Used SQL to perform deep-dives into global infection counts and death percentages.
+ * Validation: Applied SQL-based validation to ensure data accuracy across 200+ regions.
+ * Strategic Metrics: Developed queries to calculate the "Infection-to-Death" ratio, a key metric for healthcare resource allocation.
+Product Impact
+ * Narrative Building: Transformed raw numbers into a clear story of pandemic progression, providing a framework for predictive modeling.
